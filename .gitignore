@@ -41,14 +41,14 @@ nosetests.xml
 coverage.xml
 
 # Django specific
-*.db
+# *.db
 *.sqlite3
 /media
 /static
 
 # Flask specific
 instance/
-*.db
+# *.db
 
 # Environment variables
 .env
