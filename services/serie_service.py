@@ -20,6 +20,6 @@ class SerieService():
             raise AppError(message="Episódio é obrigatório.")
         find_by_title = SerieRepository.find_serie_by_title(title)
         if find_by_title:
-            raise AppError(message="Filme já registrado.")
+            raise AppError(message="Série já registrada.")
         serie_id = SerieRepository.create_serie(Series(title=title, year=year, rating=rating, seasons=seasons, episodes=episodes))
         return serie_id

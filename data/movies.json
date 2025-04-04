@@ -1,0 +1,177 @@
+[
+    {
+        "id":1,
+        "title":"Um Sonho de Liberdade",
+        "year":1994,
+        "rating":9.3,
+        "runtime":"2h 22m"
+    },
+    {
+        "id":2,
+        "title":"O Poderoso Chefão",
+        "year":1972,
+        "rating":9.2,
+        "runtime":"2h 55m"
+    },
+    {
+        "id":3,
+        "title":"Batman: O Cavaleiro das Trevas",
+        "year":2008,
+        "rating":9.0,
+        "runtime":"2h 32m"
+    },
+    {
+        "id":4,
+        "title":"O Poderoso Chefão: Parte II",
+        "year":1974,
+        "rating":9.0,
+        "runtime":"3h 22m"
+    },
+    {
+        "id":5,
+        "title":"12 Homens e uma Sentença",
+        "year":1957,
+        "rating":9.0,
+        "runtime":"1h 36m"
+    },
+    {
+        "id":6,
+        "title":"O Senhor dos Anéis: O Retorno do Rei",
+        "year":2003,
+        "rating":9.0,
+        "runtime":"3h 21m"
+    },
+    {
+        "id":7,
+        "title":"A Lista de Schindler",
+        "year":1993,
+        "rating":9.0,
+        "runtime":"3h 15m"
+    },
+    {
+        "id":8,
+        "title":"Pulp Fiction: Tempo de Violência",
+        "year":1994,
+        "rating":8.9,
+        "runtime":"2h 34m"
+    },
+    {
+        "id":9,
+        "title":"O Senhor dos Anéis: A Sociedade do Anel",
+        "year":2001,
+        "rating":8.9,
+        "runtime":"2h 58m"
+    },
+    {
+        "id":10,
+        "title":"Três Homens em Conflito",
+        "year":1966,
+        "rating":8.8,
+        "runtime":"2h 41m"
+    },
+    {
+        "id":11,
+        "title":"Forrest Gump: O Contador de Histórias",
+        "year":1994,
+        "rating":8.8,
+        "runtime":"2h 22m"
+    },
+    {
+        "id":12,
+        "title":"O Senhor dos Anéis: As Duas Torres",
+        "year":2002,
+        "rating":8.8,
+        "runtime":"2h 59m"
+    },
+    {
+        "id":13,
+        "title":"Clube da Luta",
+        "year":1999,
+        "rating":8.8,
+        "runtime":"2h 19m"
+    },
+    {
+        "id":14,
+        "title":"A Origem",
+        "year":2010,
+        "rating":8.8,
+        "runtime":"2h 28m"
+    },
+    {
+        "id":15,
+        "title":"Star Wars: Episódio V - O Império Contra-Ataca",
+        "year":1980,
+        "rating":8.7,
+        "runtime":"2h 4m"
+    },
+    {
+        "id":16,
+        "title":"Matrix",
+        "year":1999,
+        "rating":8.7,
+        "runtime":"2h 16m"
+    },
+    {
+        "id":17,
+        "title":"Os Bons Companheiros",
+        "year":1990,
+        "rating":8.7,
+        "runtime":"2h 25m"
+    },
+    {
+        "id":18,
+        "title":"Um Estranho no Ninho",
+        "year":1975,
+        "rating":8.7,
+        "runtime":"2h 13m"
+    },
+    {
+        "id":19,
+        "title":"Interestelar",
+        "year":2014,
+        "rating":8.7,
+        "runtime":"2h 49m"
+    },
+    {
+        "id":20,
+        "title":"Seven - Os Sete Crimes Capitais",
+        "year":1995,
+        "rating":8.6,
+        "runtime":"2h 7m"
+    },
+    {
+        "id":21,
+        "title":"A Felicidade Não se Compra",
+        "year":1946,
+        "rating":8.6,
+        "runtime":"2h 10m"
+    },
+    {
+        "id":22,
+        "title":"O Silêncio dos Inocentes",
+        "year":1991,
+        "rating":8.6,
+        "runtime":"1h 58m"
+    },
+    {
+        "id":23,
+        "title":"Os Sete Samurais",
+        "year":1954,
+        "rating":8.6,
+        "runtime":"3h 27m"
+    },
+    {
+        "id":24,
+        "title":"O Resgate do Soldado Ryan",
+        "year":1998,
+        "rating":8.6,
+        "runtime":"2h 49m"
+    },
+    {
+        "id":25,
+        "title":"Cidade de Deus",
+        "year":2002,
+        "rating":8.6,
+        "runtime":"2h 10m"
+    }
+]
