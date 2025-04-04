@@ -13,4 +13,6 @@ class Series(TV):
     }
 
     def __str__(self):
-        return f"{super().__str__()}\nQuantidade de Temporadas: {self.seasons}\nQuantidade de Episódios: {self.episodes}"
+        return f"{super().__str__()}\nTemporadas: {self.seasons}\nQuantidade de Episódios: {self.episodes}"
+    def to_dict(self):
+        return {"id": self.id, "title": self.title, "year": self.year, "rating": self.rating, "seasons": self.seasons, "episodes": self.episodes}

@@ -9,4 +9,4 @@ class MovieRepository():
         return movie.id
     @staticmethod
     def find_movie_by_title(title):
-        return session.query(Movie).filter(Movie.title.lower() == title.lower()).first()
+        return session.query(Movie).filter(Movie.title == title).first()

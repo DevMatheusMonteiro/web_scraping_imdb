@@ -13,3 +13,5 @@ class Movie(TV):
 
     def __str__(self):
         return f"{super().__str__()}\nDuração: {self.runtime}"
+    def to_dict(self):
+        return {"id": self.id, "title": self.title, "year": self.year, "rating": self.rating, "runtime": self.runtime}
